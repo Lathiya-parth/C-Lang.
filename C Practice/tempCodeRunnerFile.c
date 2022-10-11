@@ -1,0 +1,2 @@
+
+int factoriel(int number)
