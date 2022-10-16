@@ -28,7 +28,7 @@ int factoriel(int number)
     scanf("%d",&n);
  
     if (n < 0)
-        printf("Error! Please enter any positive integer number");
+        printf("Sorry Entered Number is less than zero try Greater than zero value");
  
     else
     {
